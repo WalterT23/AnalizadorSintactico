@@ -381,7 +381,7 @@ void attValue(int synchset[], int size){
     checkInput(siguiente, primero, 2, 7);
 }
 
-/*
+
 int main(int argc,char* args[]){
 
     if(argc > 1){
@@ -401,5 +401,5 @@ int main(int argc,char* args[]){
         exit(1);
     }
     return 0;
-}*/
+}
 
